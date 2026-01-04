@@ -38,5 +38,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-ASAD-CODE&" alt="asadkhan-cs14" /></p>
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NXT-ASAD-CODE&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
 </p>
