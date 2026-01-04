@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadkhan-cs14&show_icons=true&locale=en" alt="asadkhan-cs14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadkhan-cs14&" alt="asadkhan-cs14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NXT-ASAD-CODE&" alt="asadkhan-cs14" /></p>
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
